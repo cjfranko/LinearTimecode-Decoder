@@ -1,6 +1,7 @@
 # LinearTimecode-Decoder
 LTC decoder for Teensy Audio Library
 
+Updated version of the original LTC Decoder with calculations to detect current FPS (23.98/24/25/29.97NDF+DF/30) and parsing LOCK or FREE run status to Serial Comms
 
 see: https://forum.pjrc.com/threads/41584-Audio-Library-for-Linear-Timecode-(LTC)
 
